@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Bat dau cai dat..."
+echo ""
 echo "Updating Packages..."
 echo ""
 echo ""
